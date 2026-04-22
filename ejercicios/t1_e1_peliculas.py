@@ -2,7 +2,7 @@
 Titulo = "Mary Poppins"
 Director = "Robert Stevenson"
 Año_lanzamiento = 1964
-Género = "Musical, Comedia"
+Genero = "Musical, Comedia"
 Duración_min = 139 
 Tiene_premios = "True"
 
